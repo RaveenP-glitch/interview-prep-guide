@@ -1,1 +1,1 @@
-# MathAcademy
+# 100-leetcode-problems-challenge
