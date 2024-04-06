@@ -1,4 +1,7 @@
 const path = require("node:path");
+const PizzaShop = require("./pizza-shop-new");
+
+const pizzaShop = new PizzaShop();
 
 // console.log(__filename);
 // console.log(__dirname);
@@ -17,5 +20,7 @@ const path = require("node:path");
 
 // console.log(path.join("/folder1", "//folder2", "index.html"));
 
-console.log(path.resolve("folder1", "folder2", "index.html"));
+// console.log(path.resolve("folder1", "folder2", "index.html"));
 
+pizzaShop.order();
+pizzaShop.displayOrderNumber();
