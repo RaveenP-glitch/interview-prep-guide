@@ -17,6 +17,7 @@ When setting up a new frontend application, optimizing for performance from the 
 - Implement responsive images with `srcset` to serve different resolutions.
 - Use lazy loading for images below the fold.
 - Compress images without quality loss using tools like ImageOptim or online compressors.
+- ![alt text](image.png)
 
 ## 3. Minification and Compression
 
@@ -61,6 +62,7 @@ When setting up a new frontend application, optimizing for performance from the 
 
 - Use tools like Google Lighthouse, WebPageTest, or Chrome DevTools to analyze bottlenecks.
 - Continuously monitor performance metrics such as First Contentful Paint (FCP), Largest Contentful Paint (LCP), and Time to Interactive (TTI).
+- ![alt text](image-1.png)
 
 ---
 
